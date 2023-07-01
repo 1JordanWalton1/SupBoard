@@ -1,4 +1,4 @@
-# Pulse-Project
+# SupBoard
 
 Сайт продавца SupBoard
 
